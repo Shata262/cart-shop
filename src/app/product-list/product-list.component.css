@@ -1,0 +1,16 @@
+*{
+  padding-left: 5px;
+}
+ div >h2{
+ text-decoration: underline  crimson;
+ color: hsl(219, 94%, 60%);
+}
+button{
+margin-bottom:25px ;
+
+}
+button:hover {
+text-decoration: underline;
+  font-weight: bold;
+  background-color: black;
+}

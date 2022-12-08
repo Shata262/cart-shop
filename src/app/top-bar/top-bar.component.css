@@ -1,0 +1,31 @@
+a , i :hover{
+  color: snow;
+}
+ h1 {
+  color: rgb(11, 11, 11);
+  margin: 1px 1px 1px 10px;
+  padding-left: 15px;
+  padding-top: 10px;
+  z-index: 2;
+  font-style: oblique;
+
+
+}
+
+ h1:hover {
+  color: snow;
+  text-decoration: underline;
+  font-weight: bold;
+}
+hr{
+  margin-bottom: 10px;
+}
+
+.button {
+margin-left: 60px;
+}
+@media screen and (max-width: 420px) {
+  .button {
+margin-left: 20px;
+  }
+}
